@@ -13,7 +13,7 @@ The project is still in rapid itelating, suggest to build it youself following t
     - `cd bedrock-runtime/models/anthropic`
     - `python3 claude_3.py`
 
-`anthropic % python3 claude_3.py
+```anthropic % python3 claude_3.py
 ----------------------------------------------------------------------------------------
 Welcome to the Amazon Bedrock Runtime demo with Anthropic Claude 3.
 ----------------------------------------------------------------------------------------
@@ -35,4 +35,4 @@ In a whimsical world where everyday objects come to life, a dapper little robot 
 As the warm sunlight filtered through the foliage, casting a soft glow on the robot's polished surface, it seemed to radiate a sense of curiosity and wonder. Perhaps it was on a quest to unravel the mysteries of nature, or maybe it simply enjoyed basking in the tranquility of its verdant surroundings.
 
 Regardless of its purpose, the robot's presence brought a touch of playful imagination to the scene, a reminder that even in the most ordinary of settings, a dash of whimsy can transform the world into a magical place.
-----------------------------------------------------------------------------------------`
+----------------------------------------------------------------------------------------```
