@@ -14,7 +14,7 @@ The project is still in rapid itelating, suggest to build it youself following t
     - `python3 claude_3.py`
 
 ```
-anthropic % python3 claude_3.py
+xxxxx@b0be836e9fb4 anthropic % python3 claude_3.py
 ----------------------------------------------------------------------------------------
 Welcome to the Amazon Bedrock Runtime demo with Anthropic Claude 3.
 ----------------------------------------------------------------------------------------
