@@ -10,6 +10,6 @@ The project is still in rapid itelating, suggest to build it youself following t
     - `cd bedrock-runtime`
     - `pip install -r requirements`
 4. run the project to test:
-    `cd bedrock-runtime/models/anthropic`
-    `python3 claude_3.py`
+    - `cd bedrock-runtime/models/anthropic`
+    - `python3 claude_3.py`
 
