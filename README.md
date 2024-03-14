@@ -13,7 +13,8 @@ The project is still in rapid itelating, suggest to build it youself following t
     - `cd bedrock-runtime/models/anthropic`
     - `python3 claude_3.py`
 
-```anthropic % python3 claude_3.py
+```
+anthropic % python3 claude_3.py
 ----------------------------------------------------------------------------------------
 Welcome to the Amazon Bedrock Runtime demo with Anthropic Claude 3.
 ----------------------------------------------------------------------------------------
