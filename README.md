@@ -4,7 +4,16 @@
 ## Installation:
 The project is still in rapid itelating, suggest to build it youself following the following steps:
 
-1. configure your AK/SK by running  `aws configure`
+1. configure your AK/SK by running:
+
+```
+xxxxx@b0be836e9fb4 aws-doc-sdk-examples % aws configure
+AWS Access Key ID [****************ABCD]: 
+AWS Secret Access Key [****************aBCd]: 
+Default region name [us-east-1]: 
+Default output format [None]:
+```
+
 2. git clone current project: `git clone https://github.com/AutoJunjie/bedrock-claude3-exmaple.git`
 3. install requirements:
     - `cd bedrock-runtime`
@@ -36,4 +45,4 @@ In a whimsical world where everyday objects come to life, a dapper little robot 
 As the warm sunlight filtered through the foliage, casting a soft glow on the robot's polished surface, it seemed to radiate a sense of curiosity and wonder. Perhaps it was on a quest to unravel the mysteries of nature, or maybe it simply enjoyed basking in the tranquility of its verdant surroundings.
 
 Regardless of its purpose, the robot's presence brought a touch of playful imagination to the scene, a reminder that even in the most ordinary of settings, a dash of whimsy can transform the world into a magical place.
-----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------```
