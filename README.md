@@ -17,7 +17,7 @@ Default output format [None]:
 2. git clone current project: `git clone https://github.com/AutoJunjie/bedrock-claude3-exmaple.git`
 3. install requirements:
     - `cd bedrock-runtime`
-    - `pip install -r requirements`
+    - `pip install -r requirements.txt`
 4. run the project to test:
     - `cd bedrock-runtime/models/anthropic`
     - `python3 claude_3.py`
